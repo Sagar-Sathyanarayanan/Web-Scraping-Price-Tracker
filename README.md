@@ -1,0 +1,2 @@
+# Web-Scraping-Price-Tracker
+Web Scraping is a technique employed to extract data from websites and saved into the local database of your host computer. Many websites do not allow web-scraping as it may cause a breach of important data from their websites. This project focuses on creating an app that will pull data from Amazon and send the user an email when the price goes below a particular threshold set by the user.
